@@ -1,5 +1,10 @@
 # Leaflet-Homework-Visualizing-Data-with-Leaflet
 Hurdles and victories with JavaScript and Leaflet
+Lessons:
+- 'python -m http.server' in bash window to activate server
+' in browser and navigate to projct directory to display visualizations
+
+- console.log() is your friend
 
 ![Alt text](images/1-Logo.png?raw=true "Title")
 
@@ -31,18 +36,20 @@ Level 1: Basic Visualization
 
 2) Import & Visualize the Data
 
+![Alt text](images/MyOutput.png?raw=true "Title")
+
 Create a map using Leaflet that plots all of the earthquakes from your data set based on their longitude and latitude.
 
-    - Your data markers should reflect the magnitude of the earthquake by their size and and depth of the earthquake by color. Earthquakes with higher magnitudes should appear larger and earthquakes with greater depth should appear darker in color.
+- Your data markers should reflect the magnitude of the earthquake by their size and and depth of the earthquake by color. Earthquakes with higher magnitudes should appear larger and earthquakes with greater depth should appear darker in color.
 
 
-    - HINT: The depth of the earth can be found as the third coordinate for each earthquake.
+- HINT: The depth of the earth can be found as the third coordinate for each earthquake.
 
 
-    - Include popups that provide additional information about the earthquake when a marker is clicked.
+- Include popups that provide additional information about the earthquake when a marker is clicked.
 
 
-    - Create a legend that will provide context for your map data.
+- Create a legend that will provide context for your map data.
 
 
-    - Your visualization should look something like the map above.
+- Your visualization should look something like the map above.
