@@ -27,6 +27,8 @@ Level 1: Basic Visualization
 
 1) Get your data set
 
+![Alt text](images/3-Data.png?raw=true "Title")
+
 2) Import & Visualize the Data
 
 Create a map using Leaflet that plots all of the earthquakes from your data set based on their longitude and latitude.
