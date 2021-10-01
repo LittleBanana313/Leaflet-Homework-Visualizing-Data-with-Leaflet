@@ -35,6 +35,8 @@ Level 1: Basic Visualization
 
 ![Alt text](images/3-Data.png?raw=true "Title")
 
+The USGS provides earthquake data in a number of different formats, updated every 5 minutes. Visit the [USGS GeoJSON](https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php) Feed page and pick a data set to visualize. When you click on a data set, for example "All Earthquakes from the Past 7 Days", you will be given a JSON representation of that data. You will use the URL of this JSON to pull in the data for our visualization.
+
 2) Import & Visualize the Data
 
 
