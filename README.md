@@ -1,7 +1,7 @@
 # Leaflet-Homework-Visualizing-Data-with-Leaflet
 Hurdles and victories with JavaScript and Leaflet
 
-![Alt text](images/logo.png?raw=true "Title")
+![Alt text](images/1-Logo.png?raw=true "Title")
 
 ## Background
 
